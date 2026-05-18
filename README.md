@@ -26,7 +26,6 @@ A known sense resistor is placed in series with the unknown network. The Analog 
 ## Files
 - `rc_identifier.m` - MATLAB script for importing waveform data and calculating unknown R and C values
 - `docs/final-report.pdf` - full project report
-- `images/` - circuit and waveform visuals
 
 ## Measurement Method
 The system uses the following circuit model:
